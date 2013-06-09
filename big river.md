@@ -9,7 +9,7 @@ Then 	I'm gonna sit right 	here 	un	til I 	die.
 
  	    G	                        C	                G
 I met   her accidentally in St.     Paul (Minnesota).
- 	                            G7	            A7	                D7
+ 	                    G7	                    A7	                D7
 And it tore me up ev'ry time    I heard her     drawl, Southern     drawl.
  	    G	                G7               C7
 Then I  heard my dream was  back downstream  cavortin' in Davenport,
@@ -18,7 +18,7 @@ And     I followed you,     Big River,  when you called.
 
  	        G	                       C	                G
 Then you    took me to St. Louis later on (down the river).
- 	                   G7	            :wq:::wq::wq        A7	                D7
+ 	                   G7	                    A7	                D7
 A freighter said she's been here    but she's   gone, boy, she's    gone.
  	        G	                            G7              	C7
 I found     her trail in Memphis, but she just walked up the block.
