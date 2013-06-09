@@ -35,9 +35,5 @@ YESTERDAY, 	YESTERDAY.
 COUNTRY 	ROADS, TAKE ME 	HOME TO THE 	PLACE, I BE	LONG
  	        C	                G           	F           	C
 WEST VIR	GINIA, MOUNTAIN 	MOMMA, TAKE ME 	HOME, COUNTRY 	ROADS.
-        	C	            G	            AM      	F
-COUNTRY 	ROADS, TAKE ME 	HOME TO THE 	PLACE, I BE	LONG
- 	        C	                G           	F           	C
-WEST VIR	GINIA, MOUNTAIN 	MOMMA, TAKE ME 	HOME, COUNTRY 	ROADS.
- 	        G           	C	            G           	C
+ 	        G           	C	            G           	C G F G C
 TAKE ME 	HOME COUNTRY 	ROADS, TAKE ME 	HOME COUNTRY 	ROADS
