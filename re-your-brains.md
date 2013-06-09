@@ -21,7 +21,7 @@ G     D             C               D
 All we want to do is eat your brains
             Em            Bm           C  
 We're at an impasse here, maybe we should compromise:
-       C             Am
+                     Am
 If you open up the doors
 C                         D        G
 We'll all come inside and eat your brains
@@ -30,7 +30,7 @@ Em                C               G                 Gmaj7
 I don't want to nitpick, Tom, but is this really your plan?
 Em                   C                    D    
 To spend your whole life locked inside a mall?
-C                   Em                     Em7                  A7
+C                           Em                Em7             A7
 Maybe that's OK for now but someday you'll be out of food and guns
                                 D
 And then you'll have to make the call
