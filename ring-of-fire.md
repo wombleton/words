@@ -3,13 +3,12 @@ INTRO: G    C  G    C
 G         C       G
 Love Is A Burning Thing
                C      G
-And It Makes A Firery Ring
+And It Makes A Fiery Ring
          C    G
 Bound By Wild Desire
               C       G
 I Fell Into A Ring Of Fire
 
-CHORUS:
 D             C               G
 I Fell Into A Burning Ring Of Fire
        D
@@ -23,16 +22,6 @@ The Ring Of Fire
     C       G
 The Ring Of Fire
 
-G         C       G
-Love Is A Burning Thing
-               C      G
-And It Makes A Firery Ring
-         C    G
-Bound By Wild Desire
-              C       G
-I Fell Into A Ring Of Fire
-
-CHORUS:
 D             C               G
 I Fell Into A Burning Ring Of Fire
        D
