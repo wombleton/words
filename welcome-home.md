@@ -8,8 +8,6 @@ You have sacrificed much to be here
 Amin          G/B          D
 There but for grace…’ as I offer my hand 
 
-
-
 (Chorus)  
 C   G        D                 C
 Welcome home I bid you welcome I bid you welcome 
@@ -18,7 +16,6 @@ Welcome home from the bottom of my heart
 
 G        C           G         C
 G        C           G         C
-
 
 (Verse 2)
 Em  D/F# G
@@ -30,8 +27,6 @@ And the world is so weary in war
 Amin        G/B           D
 Maybe we’ll find that new way 
 
-
-
 (Chorus)
 C       G        D              C
 So welcome home, see I made a space for you now 
@@ -42,7 +37,6 @@ Welcome home from the bottom of our hearts
 
 G        C           G         C
 G        C           G         C
-
 
 (Bridge)
 Em                         G
@@ -56,7 +50,6 @@ Keep it coming now keep on
 
 Em     D/F#   G   Am   G/B   C   D
 coming now........................
-
 
 (Verse 3)
 Em         D/F#          G
@@ -75,8 +68,6 @@ Em         D/F#          G
 And it’s black and it’s white and it’s wild 
 Amin    G/B         D
 All the colours are one 
-
-
 
 (Chorus)
 C     G         D                 C
