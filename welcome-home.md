@@ -6,7 +6,7 @@ Under the state of a strange land
 Em       D/F#       G
 You have sacrificed much to be here 
 Amin          G/B          D
-There but for grace…’ as I offer my hand 
+There but for grace…' as I offer my hand 
 
 (Chorus)  
 C   G        D                 C
@@ -25,7 +25,7 @@ The empire is fading by the day
 Em      D/F#        G
 And the world is so weary in war 
 Amin        G/B           D
-Maybe we’ll find that new way 
+Maybe we'll find that new way 
 
 (Chorus)
 C       G        D              C
@@ -51,21 +51,24 @@ Keep it coming now keep on
 Em     D/F#   G   Am   G/B   C   D
 coming now........................
 
+
+
+
 (Verse 3)
 Em         D/F#          G
-There’s a woman with her hands trembling 
+There's a woman with her hands trembling 
 Amin    G/B    D
 hae.....re.....mai 
 Em       D/F#        G             
-And she sings with a mountain’s memory 
+And she sings with a mountain's memory 
 Amin    G/B    D
 hae.....re.....mai 
 Em         D/F#          G            
-There’s a cloud the full length of these isles 
+There's a cloud the full length of these isles 
 Amin         G/B            D
 Just playing chase with the sun 
 Em         D/F#          G  
-And it’s black and it’s white and it’s wild 
+And it's black and it's white and it's wild 
 Amin    G/B         D
 All the colours are one 
 
